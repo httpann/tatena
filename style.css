@@ -1,0 +1,93 @@
+* {
+    background-image:url(stars.webp);
+    background-attachment: fixed;
+    box-sizing:border-box;
+}
+h1 {
+    font-size:65px;
+    color:white;
+    text-align: center;
+    margin-top:5vh;
+}
+p {
+    font-size:32px;
+    text-align: center;
+    color:rgb(204, 204, 63); 
+    font-family:cursive;
+    margin-top:-4vh;
+}
+.pic{
+    border: 8px solid rgb(199, 199, 55); 
+    outline: 2px solid rgb(255, 255, 255);
+    outline-offset: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 470px;
+    margin-top:-3vh;
+}
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    align-items:center;
+    justify-content: center;
+    margin-top:4vh;
+}
+.pic1 {
+    margin: 0 20px;
+    width:240px;
+    height:auto;
+    border:2px solid white;
+    box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.4);
+}
+.jgufuri {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:370px;
+    height:auto;
+    margin-top:2vh;
+    border: 2px solid white;
+    box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.4);
+}
+.paragraph {
+    font-size:25px;
+    margin-top:5vh;
+    text-align:center;
+}
+.big {
+    font-size: 50px;
+    text-align:center;
+    margin-top:3vh;
+    margin-bottom:3vh;
+    color:rgb(207, 162, 66);
+}
+.donate {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5vh;
+}
+.gif {
+    width:400px;
+    height:500px;
+    display: inline-block;
+    margin-left:8%;
+}
+.family {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.me {
+    float:left;
+    margin-top:5vh;
+}
+.mine {
+    margin-top:5vh;
+    border:dotted rgb(255, 255, 255) 2px;
+}
+.chemi {   
+ margin-left: 5vh;
+}
